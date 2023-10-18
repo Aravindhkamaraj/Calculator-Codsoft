@@ -1,6 +1,14 @@
 # Calculator-Codsoft
-I'm delighted to share that I've successfully completed Level 1 Task 2. Portfolio Page as part of the CodSoft Internship journey!
+✨Introduction
 
-Technologies used : HTML, CSS and JavaScript.
+This project is a web calculator created as part of my internship at CodSoft. It served as Task 1 during my internship, and it provided an opportunity to apply and enhance my web development skills.
 
-Thank you CodSoft
+⚙️Technologies Used
+
+HTML: The structure of the landing page is built using HTML for semantic markup.
+
+CSS: Cascading Style Sheets (CSS) were used for styling the page, making it visually appealing.Responsive Design: Media queries and responsive design principles were applied to ensure the page adapts to different screen sizes.
+
+Acknowledgments
+
+I would like to express my gratitude to the CodSoft team for providing me with the opportunity to work on this project during my internship.
